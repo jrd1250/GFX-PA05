@@ -1,0 +1,56 @@
+﻿  Assignment5.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\GL/glui.h(868): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(164): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(185): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(186): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(194): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(195): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(196): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(198): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(199): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cylinder.h(200): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cone.h(119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cone.h(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cone.h(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cone.h(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cone.h(187): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cone.h(188): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Cone.h(191): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(64): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(114): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(139): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(140): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(141): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(143): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(144): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\Sphere.h(145): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Assignment5.cpp(92): warning C4018: '<': signed/unsigned mismatch
+Assignment5.cpp(118): warning C4018: '<': signed/unsigned mismatch
+Assignment5.cpp(280): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Assignment5.cpp(281): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Assignment5.cpp(315): warning C4018: '<': signed/unsigned mismatch
+Assignment5.cpp(379): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Assignment5.cpp(389): warning C4101: 'curDirName': unreferenced local variable
+Assignment5.cpp(479): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Assignment5.cpp(482): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Assignment5.cpp(483): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Assignment5.cpp(484): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Assignment5.cpp(485): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Assignment5.cpp(486): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Assignment5.cpp(487): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Assignment5.cpp(512): warning C4018: '<': signed/unsigned mismatch
+Assignment5.cpp(533): warning C4018: '<': signed/unsigned mismatch
+Assignment5.cpp(563): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 1478 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PA05.vcxproj -> C:\Users\JR\Documents\CS4341\PA05\PA05\Release\PA05.exe
+  PA05.vcxproj -> C:\Users\JR\Documents\CS4341\PA05\PA05\Release\PA05.pdb (Full PDB)

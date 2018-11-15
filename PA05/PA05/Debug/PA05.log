@@ -1,0 +1,76 @@
+﻿  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\tinyxml.cpp(945): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\tinyxml.cpp(1080): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\tinyxml.cpp(1227): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\tinyxml.cpp(1234): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  tinystr.cpp
+  SceneParser.cpp
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(188): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(198): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(232): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(237): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(258): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(273): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(277): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(778): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(783): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(788): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(792): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sceneparser.cpp(797): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Camera.cpp
+  Assignment5.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\gl\glui.h(868): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(164): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(185): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(186): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(194): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(195): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(196): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(198): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(199): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cylinder.h(200): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cone.h(119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cone.h(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cone.h(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cone.h(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cone.h(187): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cone.h(188): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\cone.h(191): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(64): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(114): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(139): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(140): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(141): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(143): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(144): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\sphere.h(145): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(82): warning C4101: 'i': unreferenced local variable
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(181): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(193): warning C4101: 'curDirName': unreferenced local variable
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(283): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(286): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(287): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(290): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(291): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(316): warning C4018: '<': signed/unsigned mismatch
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(337): warning C4018: '<': signed/unsigned mismatch
+c:\users\jr\documents\cs4341\pa05\pa05\pa05\assignment5.cpp(364): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
